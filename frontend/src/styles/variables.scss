@@ -1,0 +1,18 @@
+$fonts: (
+  font-catamaran: 'Catamaran',
+  font-racing: 'Racing Sans One',
+  font-right: 'Righteous',
+);
+$colors: (
+  'primary': #d81e5b,
+  'secondary': #8a4efc,
+  'light': #eee,
+  'light-alt': #61759b70,
+  'dark': #131a26,
+  'dark-alt': #202b3e,
+  'purple': #800080,
+);
+$sizes: (
+  'f-medium': 10px,
+  'font-m': clamp(1rem, 3vw + 20%, 1.2rem),
+);
